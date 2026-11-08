@@ -37,6 +37,20 @@
           "ckpt_path": "/kaggle/working/miniimagenet_workdir/best_resnet_proto_miniimagenet_84px_seed3_5shot.pth"
         }
       }
+    },
+    "224": {
+      "1": {
+        "1": {
+          "mean_acc": 0.6983466814160347,
+          "ci95": 0.009384932783000084,
+          "ckpt_path": "/kaggle/working/miniimagenet_workdir/best_resnet_proto_miniimagenet_224px_seed1_1shot.pth"
+        },
+        "5": {
+          "mean_acc": 0.8615733538866043,
+          "ci95": 0.006378255190875026,
+          "ckpt_path": "/kaggle/working/miniimagenet_workdir/best_resnet_proto_miniimagenet_224px_seed1_5shot.pth"
+        }
+      }
     }
   },
   "matched": {}
